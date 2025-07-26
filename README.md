@@ -1,6 +1,5 @@
 # hi! 👋 
 i'm solji, computer science student. i'm rlly into data science stuff, looking to collaborate on projects that blend cs fundamentals with real-world data
-- 📫 reach me:(mailto:soljicharon@gmail.com)
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
