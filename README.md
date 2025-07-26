@@ -17,6 +17,8 @@ i'm solji, computer science student. i'm rlly into data science stuff, looking t
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
+## connect with me:
+
 <p align="center">
   <a href="https://t.me/anoncilllo">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
@@ -29,8 +31,5 @@ i'm solji, computer science student. i'm rlly into data science stuff, looking t
   </a>
   <a href="https://github.com/yourusername">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>mailto:soljicharon@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40"/>
   </a>
 </p>
