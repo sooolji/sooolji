@@ -35,13 +35,13 @@ Computer Science student at University of Oriente <img src="https://cdn.countryf
 ## Connect With Me
 
 <p align="center">
-  <a href="https://t.me/anoncilllo" style="margin: 0 15px;">
+  <a href="https://t.me/anoncilllo" style="margin: 0 25px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40"/>
   </a>
   <a href="https://x.com/ssoooljii" style="margin: 0 15px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="40" height="40"/>
   </a>
-  <a href="mailto:soljicharon@gmail.com" style="margin: 0 15px;">
+  <a href="mailto:soljicharon@gmail.com" style="margin: 0 25px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40"/>
   </a>
 </p>
