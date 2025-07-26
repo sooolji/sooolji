@@ -12,27 +12,27 @@ Computer Science student at University of Oriente <img src="https://cdn.countryf
 ## Skills & Tools
 
 ### Programming Languages
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40" title="C++"/>
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" title="Python"/>
+</p>
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40" height="40" title="PostgreSQL"/>
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="40" height="40" title="MongoDB"/>
+</p>
 
 ### Tools & Frameworks
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![QT](https://img.shields.io/badge/-QT-41CD52?style=flat&logo=qt&logoColor=white)
-![Tkinter](https://img.shields.io/badge/-Tkinter-3776AB?style=flat&logo=python&logoColor=white)
-![DBeaver](https://img.shields.io/badge/-DBeaver-372923?style=flat&logo=dbeaver&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
-
-### Currently Learning
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-
-## Connect With Me
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="40" height="40" title="Linux"/>
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" height="40" title="QT"/>
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/DBeaver_logo.svg" width="40" height="40" title="DBeaver"/>
+</p>## Connect With Me
 
 <p align="center">
   <a href="https://t.me/anoncilllo" style="margin: 0 25px;">
