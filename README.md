@@ -4,57 +4,47 @@
 
 ## About Me
 
-- 🔭 Currently in my 3rd year of Computer Science
+- 🔭 Currently in my 3rd year of Computer Science (not formally specializing, but...)
 - 🌱 Passionate about Data Science → self-learning: Python, SQL, and data analysis tools
 - 👯 Looking to collaborate on projects that blend CS fundamentals with real-world data
 - 📫 How to reach me: [soljicharon@gmail.com](mailto:soljicharon@gmail.com)
 - ⚡ C++ fun fact: Did you know `std::vector` is actually implemented as a dynamic array, not a linked list?
 
+(El resto del contenido permanece igual: skills, tools, y contact sections)
+
 ## Skills & Tools
 
 ### Programming Languages
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux"/>
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/>
-</div>
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### Databases & Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=dbeaver" alt="DBeaver" title="DBeaver"/>
-</div>
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### Frameworks & Libraries
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=qt" alt="QT" title="QT"/>
-  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask"/>
-</div>
+### Tools & Frameworks
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![QT](https://img.shields.io/badge/-QT-41CD52?style=flat&logo=qt&logoColor=white)
+![Tkinter](https://img.shields.io/badge/-Tkinter-3776AB?style=flat&logo=python&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-372923?style=flat&logo=dbeaver&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 ### Currently Learning
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" title="Pandas"/>
-  <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" title="NumPy"/>
-  <img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" title="Matplotlib"/>
-  <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" title="Jupyter"/>
-</div>
-
-### Other Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" title="LaTeX"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code"/>
-</div>
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 
 ## Connect With Me
 
 <p align="center">
-  <a href="https://t.me/anoncilllo" style="margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=telegram" width="50" height="50" alt="Telegram"/>
+  <a href="https://t.me/anoncilllo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40"/>
   </a>
-  <a href="https://x.com/ssoooljii" style="margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=twitter" width="50" height="50" alt="Twitter"/>
+  <a href="https://x.com/ssoooljii">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="40" height="40"/>
   </a>
-  <a href="mailto:soljicharon@gmail.com" style="margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Gmail"/>
+  <a href="mailto:soljicharon@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40"/>
   </a>
+</p>
