@@ -1,7 +1,7 @@
-# hey i’m solji 👋 
+hey i’m solji 👋 
 computer science student | data science enthusiast
 
-## stack
+stack
 ![c++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![postgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -11,6 +11,7 @@ computer science student | data science enthusiast
 ![tkinter](https://img.shields.io/badge/-Tkinter-3776AB?style=flat&logo=python&logoColor=white)
 ![dbeaver](https://img.shields.io/badge/-DBeaver-372923?style=flat&logo=dbeaver&logoColor=white)
 ![jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+[![vscode](https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 ![git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![gitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
