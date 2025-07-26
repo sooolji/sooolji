@@ -1,4 +1,4 @@
-# hi! 👋 
+# hi there! 👋 
 i'm solji, computer science student. i'm rlly into data science stuff, looking to collaborate on projects that blend cs with real-world problems
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -15,7 +15,7 @@ i'm solji, computer science student. i'm rlly into data science stuff, looking t
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 
-## Connect With Me
+connect with me:
 
 <p align="center">
   <a href="https://t.me/anoncilllo">
