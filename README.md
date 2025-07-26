@@ -1,6 +1,6 @@
-# Hi there, I'm Solji 👋
+# Hi there! 👋
 
-3rd-year Computer Science student at University of Oriente <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="15" />
+ i'm solji, computer science student at universidad de oriente [https://uo.edu.cu/]
 
 ## About Me
 
