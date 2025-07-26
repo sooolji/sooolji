@@ -1,36 +1,17 @@
-# Hi there! 👋
+# hi! 👋 
+i'm solji, computer science student. i'm rlly into data science stuff, looking to collaborate on projects that blend cs fundamentals with real-world data
+- 📫 reach me: [soljicharon@gmail.com](mailto:soljicharon@gmail.com)
 
- i'm solji, computer science student at universidad de oriente [https://uo.edu.cu/]
-
-## About Me
-
-- 🔭 Currently in my 3rd year of Computer Science (not formally specializing, but...)
-- 🌱 Passionate about Data Science → self-learning: Python, SQL, and data analysis tools
-- 👯 Looking to collaborate on projects that blend CS fundamentals with real-world data
-- 📫 How to reach me: [soljicharon@gmail.com](mailto:soljicharon@gmail.com)
-- ⚡ C++ fun fact: Did you know `std::vector` is actually implemented as a dynamic array, not a linked list?
-
-(El resto del contenido permanece igual: skills, tools, y contact sections)
-
-## Skills & Tools
-
-### Programming Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### Tools & Frameworks
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![QT](https://img.shields.io/badge/-QT-41CD52?style=flat&logo=qt&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/-Tkinter-3776AB?style=flat&logo=python&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-372923?style=flat&logo=dbeaver&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
-
-### Currently Learning
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
