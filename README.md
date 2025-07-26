@@ -1,6 +1,5 @@
 # hey i’m solji 👋 
 computer science student | data science enthusiast
-I break things… then fix them (mostly) 🤓
 
 ## stack
 ![c++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -22,7 +21,7 @@ I break things… then fix them (mostly) 🤓
 ![matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 
 
-## let’s connect  
-[![telegram](https://img.shields.io/badge/-@anoncilllo-2CA5E0?style=flat&logo=telegram)](https://t.me/anoncilllo)  
-[![x](https://img.shields.io/badge/-@ssoooljii-000000?style=flat&logo=x)](https://x.com/ssoooljii)  
-[![gmail](https://img.shields.io/badge/-soljicharon@gmail.com-D14836?style=flat&logo=gmail)](mailto:soljicharon@gmail.com)
+## let's connect  
+[![Telegram](https://img.shields.io/badge/-@anoncilllo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anoncilllo)  
+[![X (Twitter)](https://img.shields.io/badge/-@ssoooljii-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ssoooljii)  
+[![Gmail](https://img.shields.io/badge/-soljicharon@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soljicharon@gmail.com)
