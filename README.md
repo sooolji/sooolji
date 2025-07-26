@@ -1,6 +1,5 @@
 # hey i’m solji 👋 
 computer science student | data science enthusiast
-I break things… then fix them (mostly) 🤓
 
 ## stack
 ![C++](https://skillicons.dev/icons?i=cpp)
