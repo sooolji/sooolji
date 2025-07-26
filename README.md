@@ -22,13 +22,6 @@ computer science student | data science enthusiast
 
 
 ## let's connect  
-[![Telegram](https://img.shields.io/badge/-@anoncilllo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anoncilllo)  
-[![X (Twitter)](https://img.shields.io/badge/-@ssoooljii-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ssoooljii)  
-[![Gmail](https://img.shields.io/badge/-soljicharon@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soljicharon@gmail.com)
-
-
-_____
-
 <p align="center">
   <a href="https://t.me/anoncilllo" target="_blank"><img src="https://img.shields.io/badge/-@anoncilllo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://x.com/ssoooljii" target="_blank"><img src="https://img.shields.io/badge/-@ssoooljii-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
