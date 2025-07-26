@@ -4,13 +4,10 @@ Computer Science student at University of Oriente <img src="https://cdn.countryf
 
 ## About Me
 
-- 🔭 Currently studying Computer Science with focus on Data Science
-- 🌱 Learning: Advanced Python, Machine Learning, and Data Visualization
-- 👯 Looking to collaborate on Data Analysis projects with real-world impact
-- 🤔 Seeking help with finding a group project or internship that solves meaningful problems
-- 💬 Ask me about: Cuba, C++, or being a CS student in Cuba
-- 📫 How to reach me: [soljicharon@gmail.com](mailto:soljicharon@gmail.com)
-- ⚡ Fun fact: In C++, the name "cout" stands for "character output" and is part of the iostream library!
+- 🔭 Currently in my 3rd year of Computer Science (not formally specializing, but...)
+- 🌱 Passionate about Data Science → self-learning: Python, SQL, and data analysis tools
+- 👯 Looking to collaborate on projects that blend CS fundamentals with real-world data
+- ⚡ C++ fun fact: Did you know `std::vector` is actually implemented as a dynamic array, not a linked list?
 
 ## Skills & Tools
 
