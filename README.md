@@ -13,8 +13,8 @@ computer science student | data science enthusiast
 ![jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![gitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Spyder](https://img.shields.io/badge/-Spyder%20IDE-FF0000?style=flat&logo=spyder-ide&logoColor=white)
+![vs code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![spyder](https://img.shields.io/badge/-Spyder%20IDE-FF0000?style=flat&logo=spyder-ide&logoColor=white)
 
 ## learning
 ![lateX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
