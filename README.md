@@ -5,7 +5,6 @@ computer science student | data science enthusiast
 ![c++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![postgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![mongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![qt](https://img.shields.io/badge/-QT-41CD52?style=flat&logo=qt&logoColor=white)
 ![tkinter](https://img.shields.io/badge/-Tkinter-3776AB?style=flat&logo=python&logoColor=white)
@@ -13,8 +12,7 @@ computer science student | data science enthusiast
 ![jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![gitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![vs code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![spyder](https://img.shields.io/badge/-Spyder%20IDE-FF0000?style=flat&logo=spyder-ide&logoColor=white)
+![docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## learning
 ![lateX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
