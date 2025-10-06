@@ -1,5 +1,5 @@
 ## hey i’m solji 👋 
-computer science student | aspiring backend dev
+computer science student
 
 ## stack
 ![c++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
