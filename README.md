@@ -18,6 +18,12 @@ computer science student, aspiring to be a machine learning engineer with a stro
 ![pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/Matplotlib-3776ab?logo=matplotlib&logoColor=white)
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?logo=matplotlib&logoColor=white)
+![Voilà](https://img.shields.io/badge/Voilà-4285F4?logo=jupyter&logoColor=white)
+
 ## let's connect  
 <p align="center">
   <a href="https://t.me/anoncilllo" target="_blank"><img src="https://img.shields.io/badge/-@anoncilllo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
