@@ -1,5 +1,4 @@
-## hey i’m solji 👋 
-computer science student, aspiring to be a machine learning engineer with a strong passion for data science and artificial intelligence
+## hey i’m solji 👋 a computer science student
 
 ## stack
 ![c++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -11,11 +10,11 @@ computer science student, aspiring to be a machine learning engineer with a stro
 ![lateX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![power bi](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white)
 
 ## learning
 ![numpy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![power bi](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/Matplotlib-3776ab?logo=matplotlib&logoColor=white)
 
 ## let's connect  
