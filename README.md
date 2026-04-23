@@ -6,12 +6,4 @@
   <a href="mailto:soljicharon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-**computer scientist & software developer** 
-
----
-
-### github stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sooolji&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooolji&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## **computer scientist & software developer** 
